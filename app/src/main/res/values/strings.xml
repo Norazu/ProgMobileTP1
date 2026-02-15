@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="nom">Entrez votre Nom</string>
-    <string name="prénom">Entrez votre prénom</string>
-    <string name="age">Entrez votre age</string>
-    <string name="competences">Entrez votre domaine de compétences</string>
-    <string name="telephone">Entrez votre numéro de Téléphone</string>
+    <string name="nom">Last name</string>
+    <string name="prénom">First name</string>
+    <string name="age">Age</string>
+    <string name="competences">Skills</string>
+    <string name="telephone">Phone number</string>
 
 </resources>

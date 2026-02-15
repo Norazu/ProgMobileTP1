@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nom">Nom</string>
+    <string name="prénom">Prénom</string>
+    <string name="age">Age</string>
+    <string name="competences">" Compétences"</string>
+    <string name="telephone">Téléphone</string>
+</resources>
