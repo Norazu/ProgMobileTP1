@@ -39,6 +39,9 @@ public class RecapActivity extends AppCompatActivity {
 
         btnOk.setOnClickListener(v -> {
             Intent intentFinal = new Intent(RecapActivity.this, FinalActivity.class);
+            String phoneToPass = getIntent().getStringExtra("KEY_PHONE");
+            intentFinal.putExtra("KEY_PHONE", phoneToPass);
+
             startActivity(intentFinal);
         });
     }
