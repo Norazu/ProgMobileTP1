@@ -1,6 +1,7 @@
 package com.example.myapplication;
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
@@ -48,7 +49,15 @@ public class MainActivity extends AppCompatActivity {
             for (EditText field : fields) {
                 field.setBackgroundColor(Color.parseColor("#C8E6C9"));
             }
-            Toast.makeText(MainActivity.this, R.string.msg_validation_ok, Toast.LENGTH_SHORT).show();
+
+            Intent intent = new Intent(MainActivity.this, RecapActivity.class);
+            intent.putExtra("KEY_NOM", fields[0].getText().toString());
+            intent.putExtra("KEY_PRENOM", fields[1].getText().toString());
+            intent.putExtra("KEY_COMPETENCES", fields[2].getText().toString());
+            intent.putExtra("KEY_AGE", fields[3].getText().toString());
+            intent.putExtra("KEY_PHONE", fields[4].getText().toString());
+
+            startActivity(intent);
         });
 
         builder.setNegativeButton(R.string.btn_annuler, (dialog, which) -> {

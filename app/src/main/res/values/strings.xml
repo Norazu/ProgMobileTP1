@@ -15,4 +15,14 @@
 
     <string name="msg_validation_ok">Input validated!</string>
     <string name="msg_action_annulee">Action cancelled</string>
+    <string name="recap_titre">Summary</string>
+    <string name="recap_nom">Last Name: </string>
+    <string name="recap_prenom">First Name: </string>
+    <string name="recap_age">Age: </string>
+    <string name="recap_skills">Skills: </string>
+    <string name="recap_phone">Phone: </string>
+    <string name="btn_retour">Back</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="final_message">Congratulations! Process completed.</string>
 </resources>

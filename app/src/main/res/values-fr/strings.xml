@@ -15,4 +15,14 @@
 
     <string name="msg_validation_ok">Saisie validée !</string>
     <string name="msg_action_annulee">Action annulée</string>
+    <string name="recap_titre">Récapitulatif</string>
+    <string name="recap_nom">Nom : </string>
+    <string name="recap_prenom">Prénom : </string>
+    <string name="recap_age">Age : </string>
+    <string name="recap_skills">Compétences : </string>
+    <string name="recap_phone">Téléphone : </string>
+    <string name="btn_retour">Retour</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="final_message">Félicitations ! Parcours terminé.</string>
 </resources>
