@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Mon Application</string>
+
     <string name="nom">Nom</string>
     <string name="prénom">Prénom</string>
+    <string name="competences">Compétences</string>
     <string name="age">Age</string>
-    <string name="competences">" Compétences"</string>
     <string name="telephone">Téléphone</string>
+    <string name="text_submit">Valider</string>
+
+    <string name="dialog_titre">Confirmation</string>
+    <string name="dialog_message">Voulez-vous vraiment valider ces informations ?</string>
+    <string name="btn_valider">Valider</string>
+    <string name="btn_annuler">Annuler</string>
+
+    <string name="msg_validation_ok">Saisie validée !</string>
+    <string name="msg_action_annulee">Action annulée</string>
 </resources>

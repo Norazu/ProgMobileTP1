@@ -1,9 +1,18 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="nom">Last name</string>
-    <string name="prénom">First name</string>
-    <string name="age">Age</string>
-    <string name="competences">Skills</string>
-    <string name="telephone">Phone number</string>
 
+    <string name="nom">Last Name</string>
+    <string name="prénom">First Name</string>
+    <string name="competences">Skills</string>
+    <string name="age">Age</string>
+    <string name="telephone">Phone Number</string>
+    <string name="text_submit">Submit</string>
+
+    <string name="dialog_titre">Confirmation</string>
+    <string name="dialog_message">Do you really want to validate this information?</string>
+    <string name="btn_valider">Validate</string>
+    <string name="btn_annuler">Cancel</string>
+
+    <string name="msg_validation_ok">Input validated!</string>
+    <string name="msg_action_annulee">Action cancelled</string>
 </resources>
