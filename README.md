@@ -44,7 +44,7 @@ Veuillez suivre la procédure suivante pour tester les différentes versions de 
 
 1.  **Clonage du dépôt :**
     ```bash
-    git clone [https://github.com/votre-pseudo/votre-repo.git](https://github.com/votre-pseudo/votre-repo.git)
+    git clone git@github.com:Norazu/ProgMobileTP1.git
     cd votre-repo
     ```
 
