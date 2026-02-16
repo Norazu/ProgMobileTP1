@@ -62,6 +62,5 @@ Veuillez suivre la procédure suivante pour tester les différentes versions de 
 ---
 
 **Auteur :**
-[Votre Nom]
-[Votre Formation / Groupe]
-Université de [Nom de l'Université]
+Nokrani Ilies
+22203846
